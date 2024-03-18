@@ -31,7 +31,7 @@ public class Main {
 
             WriteGameInfoToFile writeGameInfoToFile = new WriteGameInfoToFile();
 
-            for(int i = 0; i < numberOfPages; i++) {
+            for(int i = 1; i <= numberOfPages; i++) {
                 int pageNo = i;
                 Thread t = new Thread(new PageRunnable(pageNo, writeGameInfoToFile));
                 threadPool.add(t);
