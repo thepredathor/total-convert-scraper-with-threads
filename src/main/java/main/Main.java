@@ -1,10 +1,11 @@
+package main;
+
+import main.file.WriteGameInfoToFile;
+import main.thread.PageRunnable;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -42,7 +43,7 @@ public class Main {
                 try {
                     t.join();
                 } catch (InterruptedException e) {
-                    throw new RuntimeException("Main thread got interrupted");
+                    throw new RuntimeException("main.Main thread got interrupted");
                 }
             }
         } catch (IOException e) {

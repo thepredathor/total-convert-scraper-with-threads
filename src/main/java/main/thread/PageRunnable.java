@@ -1,3 +1,7 @@
+package main.thread;
+
+import main.Main;
+import main.file.WriteGameInfoToFile;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

@@ -1,40 +1,40 @@
-Console: Nintendo, title: Nintendo Jojos Bizarre Adventure All Star Battle, price: 99 lei
-Console: PS5, title: PS5 Assassins Creed Mirage, price: 119 lei
-Console: PS5, title: PS5 Back4Blood, price: 69 lei
 Console: PS4, title: PS4 Rainbow Six Extraction, price: 29 lei
-Console: PS4, title: PS4 NBA 2K22, price: 49 lei
-Console: Xbox, title: Xbox One Call of Duty Black Ops 4, price: 39 lei
-Console: Nintendo, title: Nintendo Lego Star Wars The Skywalker Saga, price: 129 lei
-Console: Nintendo, title: Nintendo Luigis Mansion 3, price: 169 lei
-Console: PS5, title: PS5 Riders Republic, price: 79 lei
-Console: Xbox, title: Xbox One Fifa 20, price: 9 lei
-Console: Xbox, title: Xbox One Assassins Creed Odyssey, price: 39 lei
-Console: Nintendo, title: Nintendo Pokemon Shining Pearl, price: 149 lei
-Console: PS4, title: PS4 Shadow Of Mordor, price: 39 lei
 Console: PS4, title: PS4 NFS, price: 59 lei
-Console: PS5, title: PS5 Suicide Squad Kill The Justice League, price: 229 lei
-Console: Xbox, title: Xbox One Fifa 21, price: 19 lei
-Console: Xbox, title: Xbox One Battlefield 4, price: 39 lei
-Console: PS5, title: PS5 Skull and Bones, price: 249 lei
-Console: PS4, title: PS4 Turtles Shredders Revenge, price: 99 lei
-Console: Xbox, title: Xbox One Mass Effect Andromeda, price: 39 lei
-Console: PS4, title: PS4 Shadow Of Mordor, price: 39 lei
-Console: PS4, title: PS4 NFS, price: 59 lei
-Console: Xbox, title: Xbox One Mass Effect Andromeda, price: 39 lei
 Console: Xbox, title: Xbox One Call of Duty Black Ops 4, price: 39 lei
 Console: Nintendo, title: Nintendo Pokemon Shining Pearl, price: 149 lei
+Console: PS4, title: PS4 Shadow Of Mordor, price: 39 lei
+Console: PS5, title: PS5 Back4Blood, price: 69 lei
+Console: Xbox, title: Xbox One Assassins Creed Odyssey, price: 39 lei
+Console: Xbox, title: Xbox One Battlefield 4, price: 39 lei
+Console: Nintendo, title: Nintendo Jojos Bizarre Adventure All Star Battle, price: 99 lei
+Console: PS5, title: PS5 Assassins Creed Mirage, price: 119 lei
+Console: PS4, title: PS4 Turtles Shredders Revenge, price: 99 lei
+Console: PS5, title: PS5 Skull and Bones, price: 249 lei
+Console: PS5, title: PS5 Riders Republic, price: 79 lei
+Console: PS4, title: PS4 NBA 2K22, price: 49 lei
+Console: PS5, title: PS5 Suicide Squad Kill The Justice League, price: 229 lei
+Console: Xbox, title: Xbox One Fifa 21, price: 19 lei
+Console: Xbox, title: Xbox One Fifa 20, price: 9 lei
+Console: Nintendo, title: Nintendo Luigis Mansion 3, price: 169 lei
+Console: Xbox, title: Xbox One Mass Effect Andromeda, price: 39 lei
+Console: Nintendo, title: Nintendo Lego Star Wars The Skywalker Saga, price: 129 lei
+Console: PS4, title: PS4 Shadow Of Mordor, price: 39 lei
+Console: PS4, title: PS4 NFS, price: 59 lei
+Console: Xbox, title: Xbox One Mass Effect Andromeda, price: 39 lei
+Console: Xbox, title: Xbox One Call of Duty Black Ops 4, price: 39 lei
+Console: Nintendo, title: Nintendo Pokemon Shining Pearl, price: 149 lei
 Console: Nintendo, title: Nintendo Luigis Mansion 3, price: 169 lei
 Console: Nintendo, title: Nintendo Lego Star Wars The Skywalker Saga, price: 129 lei
 Console: Nintendo, title: Nintendo Jojos Bizarre Adventure All Star Battle, price: 99 lei
-Console: PS4, title: PS4 Rainbow Six Extraction, price: 29 lei
-Console: Xbox, title: Xbox One Fifa 21, price: 19 lei
 Console: PS4, title: PS4 NBA 2K22, price: 49 lei
-Console: Xbox, title: Xbox One Assassins Creed Odyssey, price: 39 lei
-Console: Xbox, title: Xbox One Fifa 20, price: 9 lei
-Console: PS5, title: PS5 Assassins Creed Mirage, price: 119 lei
+Console: PS4, title: PS4 Rainbow Six Extraction, price: 29 lei
 Console: PS5, title: PS5 Suicide Squad Kill The Justice League, price: 229 lei
-Console: Xbox, title: Xbox One Battlefield 4, price: 39 lei
-Console: PS5, title: PS5 Riders Republic, price: 79 lei
-Console: PS5, title: PS5 Back4Blood, price: 69 lei
+Console: Xbox, title: Xbox One Fifa 20, price: 9 lei
+Console: Xbox, title: Xbox One Fifa 21, price: 19 lei
+Console: Xbox, title: Xbox One Assassins Creed Odyssey, price: 39 lei
 Console: PS4, title: PS4 Turtles Shredders Revenge, price: 99 lei
 Console: PS5, title: PS5 Skull and Bones, price: 249 lei
+Console: PS5, title: PS5 Back4Blood, price: 69 lei
+Console: PS5, title: PS5 Riders Republic, price: 79 lei
+Console: Xbox, title: Xbox One Battlefield 4, price: 39 lei
+Console: PS5, title: PS5 Assassins Creed Mirage, price: 119 lei
